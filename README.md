@@ -1,5 +1,5 @@
 # MovieDataAnalysis
-Using Python to collect, clean, analyze Movie Data collected from an API.
+Using Python to collect, clean, analyze Movie Data from an API.
 The IPYNB notebook contains the python code which is used to extract the data from an API, then pre-process it and analyze it.
 Process:
 1)From movies.csv, we get the movie's IMDB id, which is used to call the API http://www.omdbapi.com and get the data for each movie.
